@@ -1,0 +1,6 @@
+{
+  "name": "Lopes Beautiflyur",
+  "description": "Clínica de estética avançada e linha de skincare de alta performance com Sérum Facial exclusivo e protocolos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
